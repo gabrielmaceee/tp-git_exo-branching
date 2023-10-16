@@ -1,5 +1,5 @@
 set.seed(22)
-
+# commentaires
 x1 = runif(20)
 x2 = runif(20)
 y = sample(c(0,1), 20, prob = rep(0.5,2), replace = T)
